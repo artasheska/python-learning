@@ -1,2 +1,2 @@
-# python-learning
-обучение Python 
+# backend-journey
+My backend development journey: Python → SQL → FastAPI → Docker → Cloud
